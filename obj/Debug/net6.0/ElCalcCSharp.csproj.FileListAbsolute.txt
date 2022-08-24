@@ -1,0 +1,15 @@
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\bin\Debug\net6.0\ElCalcCSharp.exe
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\bin\Debug\net6.0\ElCalcCSharp.deps.json
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\bin\Debug\net6.0\ElCalcCSharp.runtimeconfig.json
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\bin\Debug\net6.0\ElCalcCSharp.dll
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\bin\Debug\net6.0\ElCalcCSharp.pdb
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\obj\Debug\net6.0\ElCalcCSharp.csproj.AssemblyReference.cache
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\obj\Debug\net6.0\ElCalcCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\obj\Debug\net6.0\ElCalcCSharp.AssemblyInfoInputs.cache
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\obj\Debug\net6.0\ElCalcCSharp.AssemblyInfo.cs
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\obj\Debug\net6.0\ElCalcCSharp.csproj.CoreCompileInputs.cache
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\obj\Debug\net6.0\ElCalcCSharp.dll
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\obj\Debug\net6.0\refint\ElCalcCSharp.dll
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\obj\Debug\net6.0\ElCalcCSharp.pdb
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\obj\Debug\net6.0\ElCalcCSharp.genruntimeconfig.cache
+D:\Developments\VisualStudio\ElCalcCSharp\ElCalcCSharp\obj\Debug\net6.0\ref\ElCalcCSharp.dll
